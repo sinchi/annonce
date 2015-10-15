@@ -1,9 +1,9 @@
 {
-	"name":"afrique_annonce",
-	"version":"0.0.1",
-	"dependencies":{
-		"angular":"~1.2",
-                "angular-route": "~1.2",
-                 "jquery": "1.9.1 - 2"
+	"name": "MEAN",
+	"version": "0.0.9",
+	"dependencies": {
+		"angular": "~1.2",
+		"angular-route": "~1.2",
+		"angular-resource": "~1.2"
 	}
 }
